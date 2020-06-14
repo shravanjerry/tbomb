@@ -110,7 +110,7 @@ sudo bash tbomb.sh
 ## CONTRIBUTORS:
 
 **shravanjerry**<br>
-[-] Mail At: mrwhitehatter@gmail.com
+[-] Mail At: jerryshravan@gmail.com
 
 
 # CONTACT ME:
@@ -118,7 +118,7 @@ sudo bash tbomb.sh
 Feel Free To Open An Issue...
 
 ```
-                 Mail: mrwhitehatter@gmail.com<br>
+                 Mail: jerryshravan@gmail.com<br>
        YouTube Channel: https://www.youtube.com/channel/UCw5u7r2zZOJgPSe-3qyuOag
 ```
 
