@@ -57,11 +57,11 @@ clear
 echo -e "\e[1;31m"
 figlet tbomb
 echo -e "\e[1;34m Created By \e[1;32m"
-toilet -f mono12 -F border shravanjerry
+toilet -f mono12 -F border shravan jerry
 echo -e "\e[4;34m This Bomber Was Created By shravanjerry \e[0m"
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
 echo -e "\e[1;32m           Mail: jerryshravan@gmail.com \e[0m"
-echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/channel/UCw5u7r2zZOJgPSe-3qyuOag \e[0m"
+echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/channel/MrWHITEHATTER TECH"
 echo " "
 echo -e "\e[4;31m Please Read Instruction Carefully !!! \e[0m"
 echo " "
@@ -110,7 +110,7 @@ clear
 echo -e "\e[1;33m"
 figlet tbomb
 echo -e "\e[1;34mCreated By \e[1;34m"
-toilet -f mono12 -F border shravanjerry
+toilet -f mono12 -F border shravan jerry
 echo  " "
 echo -e "\e[1;32m                   Features\e[1;34m"
 echo "  [+] Unlimited And Super-Fast Bombing"
@@ -139,7 +139,7 @@ echo -e "\e[4;31m That's All !!!\e[0m"
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
 echo -e "\e[1;32m           Mail: jerryshravan@gmail.com \e[0m"
 echo -e "\e[1;32m       Whatsapp: soon updated \e[0m"
-echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/channel/UCw5u7r2zZOJgPSe-3qyuOag \e[0m"
+echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/channel/MrWHITEHATTER TECH"
 echo "Press Enter To Go Home"
 read a3
 clear
@@ -148,11 +148,11 @@ clear
 echo -e "\e[1;31m"
 figlet tbomb
 echo -e "\e[1;34m Created By \e[1;32m"
-toilet -f mono12 -F border shravanjerry
+toilet -f mono12 -F border shravan jerry
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
 echo -e "\e[1;32m           Mail: jerryshravan@gmail.com \e[0m"
 echo -e "\e[1;32m       Whatsapp: soon update \e[0m"
-echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/channel/UCw5u7r2zZOJgPSe-3qyuOag \e[0m"
+echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/channel/MrWHITEHATTER TECH"
 echo " "
 exit 0
 else
